@@ -1,6 +1,6 @@
 Parameters:
   myVPC:
-      Description: VPC used to deploy our resources below
+      Description: VPC that was used to deploy our resources below
       Type: AWS::EC2::VPC::Id
   PublicSubnet:
       Description: Subnet to be used for our Web Server
