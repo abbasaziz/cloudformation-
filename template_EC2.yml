@@ -3,7 +3,7 @@ Parameters:
       Description: VPC that was used to deploy our resources below
       Type: AWS::EC2::VPC::Id
   PublicSubnet:
-      Description: Subnet to be used for our Web Server
+      Description: Subnet that needs to be used for our Web Server
       Type: AWS::EC2::Subnet::Id
   AMItoUse:
       Description: AMI to use for our base image
