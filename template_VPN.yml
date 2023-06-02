@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: This template helps us deploy a Virtual Private Network
+Description: This template helps us in deploying a Virtual Private Network
 Resources:
   UdacityVPC:
     Type: 'AWS::EC2::VPC'
