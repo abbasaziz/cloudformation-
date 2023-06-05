@@ -4,7 +4,7 @@
         "ParameterValue": "vpc-0b34eba8cb8fdb730"
       },
       {
-        "ParameterKey": "PublicSubnet",
+        "ParameterKey": "PublicSubnet-1",
         "ParameterValue": "subnet-0b22213032e3090c7"
       },
       {
