@@ -1,5 +1,5 @@
 Parameters:
-  myVPC:
+  VPC-1:
       Description: VPC that was used to deploy our resources below
       Type: AWS::EC2::VPC::Id
   PublicSubnet:
